@@ -1,4 +1,3 @@
-### > sudo whoami
 
 ¡Hola! Soy **Juan**. 👋
 Estudiante de **Ingeniería de Sistemas** en la Universidad Metropolitana (Caracas).
